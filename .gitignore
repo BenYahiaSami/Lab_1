@@ -147,3 +147,22 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+
+
+#Practice
+
+# Ignore a simple file
+FileToIgnore.txt
+IgnoreThisFile.txt
+
+# Ignore a complete folder
+FolderToIgnore/
+
+# Ignore all files that finishes with .Ignore in all the project
+
+*.Ignore
+
+# Ignore all type of a file in a folder
+Logs/*.log
+
